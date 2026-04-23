@@ -16,12 +16,12 @@ redirect_from:
 
 **University of California, San Diego \- Halıcıoğlu Data Science Institute**	
 
-Expected December 2026  
+Expected December 2026, 4.0 GPA 
 Master of Science, Data Science
 
 **University of California, San Diego \- Jacobs School of Engineering** 
 
-Class of 2021  
+Class of 2021, 3.2 GPA
 Bachelor of Science, Electrical Engineering; Depths in Machine Learning and Digital Signal Processing 	  
 
 ---
@@ -73,6 +73,29 @@ Scripps Institution of Oceanography – Instrument Development Group	San Diego, 
 
 ---
 
+## **RELEVANT COURSEWORK**
+
+**DSC 243 \- Advanced Optimization**
+A deep mathematical dive into the convergent behavior of various optimization algorithms including gradient descent, the Krylov method, conjugate gradient method, and stochastic optimization with large data sets, complexity lower bounds for convex optimization.
+
+**DSC 211 \-Introduction to Optimization**
+Learned the fundamentals of optimization at a graduate level, including convexity, gradient descent, acceleration using chebyshev polynomials, stochastic gradient descent, SVRG, Lagrange multipliers, KKT conditions etc.
+
+**DSC 245 \- Introduction to Causal Inference**
+
+Covered causal versus predictive inference, potential outcomes and randomized experiments (A/B testing), structural causal models, causal structure learning, estimation of causal effect, causal discovery and inference in presence of distribution shifts, selection bias, nonlinear causal mechanisms,causal representation learning.
+
+**ECE 175A \- Pattern Recognition and Machine Learning**	  
+Provided an undergraduate-level intro to Statistical Learning. Addressed problems such as classification and detection, parameter and model estimation, and clustering using techniques such as PCA, k-means clustering, and Support Vector Machines.
+
+**ECE 176A \- Introduction to Machine Learning and Applications**	  
+Covered the fundamentals in deep learning, basics in deep neural networks including different network architectures (e.g., ConvNet, RNN), and the optimization algorithms for training these networks. 
+
+**ECE 148 \- Introduction to Autonomous Vehicles**	  
+Utilizing a combination of lectures and practical applications, gained hands-on experience in a state-of-the-art lab with the development of scale autonomous cars that performed on a simulated city track.
+
+---
+
 ## **PROJECTS**
 
 **Ship Noise Convolutional Neural Network**	
@@ -94,23 +117,6 @@ Scripps Institution of Oceanography – Instrument Development Group	San Diego, 
 **Context Encoder**	
 
 * Followed a research paper detailing a method of image inpainting using context encoders and developed my own version.
-
-
----
-
-## **RELEVANT COURSEWORK**
-
-**ECE 175A \- Pattern Recognition and Machine Learning**	  
-Provided an undergraduate-level intro to Statistical Learning. Addressed problems such as classification and detection, parameter and model estimation, and clustering using techniques such as PCA, k-means clustering, and Support Vector Machines.
-
-**ECE 176A \- Introduction to Machine Learning and Applications**	  
-Covered the fundamentals in deep learning, basics in deep neural networks including different network architectures (e.g., ConvNet, RNN), and the optimization algorithms for training these networks. 
-
-**ECE 148 \- Introduction to Autonomous Vehicles**	  
-Utilizing a combination of lectures and practical applications, gained hands-on experience in a state-of-the-art lab with the development of scale autonomous cars that performed on a simulated city track.
-
-**ECE 174 \- Introduction to Linear and Nonlinear Optimization**	  
-Developed a strong mathematical foundation and understanding of the principles behind popular tools and techniques employed in modern machine learning and data science.   
 
 ---
 
