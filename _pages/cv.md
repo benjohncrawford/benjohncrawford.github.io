@@ -33,7 +33,7 @@ Bachelor of Science, Electrical Engineering; Depths in Machine Learning and Digi
 **Software Engineer, Capacity Optimization Group**	
 
 October 2022 \- June 2025  
-Viasat Inc.	San Diego, CA
+Viasat Inc.	
 
 * Specialized in optimizing the amount of capacity in specific geographical areas for a satellite network based on various factors such as demand, performance, and business priorities.  
 * Designed, improved, and maintained various pipelines for getting and storing large amounts of data used in the optimization.  
@@ -44,7 +44,7 @@ Viasat Inc.	San Diego, CA
 **Software Engineer, SMAC Group**	
 
 July 2021 \- October 2022  
-Viasat Inc.	San Diego, CA
+Viasat Inc.	
 
 * Developed mission critical software in C++ that drives cutting edge satellite internet, sharing knowledge with a team of experts.   
 * Used a test driven approach in all phases of software feature development including development, testing and release.   
@@ -53,7 +53,7 @@ Viasat Inc.	San Diego, CA
 **Engineering Intern**	
 
 June 2020 \- September 2020  
-Vulcan Wireless Inc.	Carlsbad, CA
+Vulcan Wireless Inc.	
 
 * Designed a test automation interface for NASA software defined radios alongside another team member. This python automation library fully automated a previously entirely manual process saving several hours of work per radio.   
 * Created a frontend web GUI for the automation library using Flask and SQL that allowed users to run tests, record data, and interact with lab equipment remotely.  
@@ -61,7 +61,7 @@ Vulcan Wireless Inc.	Carlsbad, CA
 **Machine Learning Intern/Researcher** 	
 
 June 2019 \- June 2020  
-Scripps Institution of Oceanography – Whale Acoustics Lab	San Diego, CA
+Scripps Institution of Oceanography – Whale Acoustics Lab	
 
 * Partnered with a team of researchers to develop machine learning models--directly applying theories from the classroom to gain novel insights from previously underutilized data.   
 * Spearheaded machine learning/computer vision project as the lead software developer and driving the application of important development processes such as thoroughly cleansing the data and strategically distributing the work.
@@ -69,7 +69,7 @@ Scripps Institution of Oceanography – Whale Acoustics Lab	San Diego, CA
 **Engineering/Technician Assistant**	
 
 October 2017 \- August 2019  
-Scripps Institution of Oceanography – Instrument Development Group	San Diego, CA
+Scripps Institution of Oceanography – Instrument Development Group	
 
 * Navigated cutting edge software and hardware to build environmentally conscious oceanic autonomous data collection devices.
 
