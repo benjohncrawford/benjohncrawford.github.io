@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Benjamin John Crawford"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## About Me
 
 Hi, my name is Ben and I'm currently a Master's student at the Halıcıoğlu Data Science Institute at UCSD. I'm interested in a broad range of topics relating to machine learning and robotics. However, recently I have been focused on applying optimization techniques in different domains such as LLM steering and planning using world models. I'm especially interested on finding new and interesting models or techniques and understanding the theoretical guarantees we can derive for them. Please feel free to reach out!
