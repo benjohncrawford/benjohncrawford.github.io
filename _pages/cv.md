@@ -41,7 +41,7 @@ Viasat Inc.
 * Engineered a plethora of python automation surrounding the solver including shaping inputs, altering outputs, and creating various reports to get deeper insights.
 
 
-**Software Engineer, SMAC Group**	
+**Software Engineer, Satellite Media Access and Control (SMAC) Group**	
 
 July 2021 \- October 2022  
 Viasat Inc.	
