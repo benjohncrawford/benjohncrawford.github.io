@@ -84,7 +84,6 @@ A deep mathematical dive into the convergent behavior of various optimization al
 Learned the fundamentals of optimization at a graduate level, including convexity, gradient descent, acceleration using chebyshev polynomials, stochastic gradient descent, SVRG, Lagrange multipliers, KKT conditions etc.
 
 **DSC 245 \- Introduction to Causal Inference**
-
 Covered causal versus predictive inference, potential outcomes and randomized experiments (A/B testing), structural causal models, causal structure learning, estimation of causal effect, causal discovery and inference in presence of distribution shifts, selection bias, nonlinear causal mechanisms,causal representation learning.
 
 **ECE 175A \- Pattern Recognition and Machine Learning**	  
