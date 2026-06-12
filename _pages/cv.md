@@ -80,7 +80,7 @@ Scripps Institution of Oceanography – Instrument Development Group
 **DSC 243 \- Advanced Optimization**
 A deep mathematical dive into the convergent behavior of various optimization algorithms including gradient descent, the Krylov method, conjugate gradient method, and stochastic optimization with large data sets, complexity lower bounds for convex optimization.
 
-**DSC 211 \-Introduction to Optimization**
+**DSC 211 \- Introduction to Optimization**
 Learned the fundamentals of optimization at a graduate level, including convexity, gradient descent, acceleration using chebyshev polynomials, stochastic gradient descent, SVRG, Lagrange multipliers, KKT conditions etc.
 
 **DSC 245 \- Introduction to Causal Inference**
