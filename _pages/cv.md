@@ -30,7 +30,7 @@ Bachelor of Science, Electrical Engineering; Depths in Machine Learning and Digi
 
 ## **PROFESSIONAL AND RESEARCH EXPERIENCE** 
 
-**Software Engineer, Capacity Optimization Group**	  
+**Software Engineer, Capacity Optimization Group**	
 October 2022 \- June 2025  
 Viasat Inc.	
 
@@ -40,7 +40,7 @@ Viasat Inc.
 * Engineered a plethora of python automation surrounding the solver including shaping inputs, altering outputs, and creating various reports to get deeper insights.
 
 
-**Software Engineer, Satellite Media Access and Control (SMAC) Group**	  
+**Software Engineer, Satellite Media Access and Control (SMAC) Group**	
 July 2021 \- October 2022  
 Viasat Inc.	
 
@@ -48,21 +48,21 @@ Viasat Inc.
 * Used a test driven approach in all phases of software feature development including development, testing and release.   
 * Exceeded company expectations in a devops role providing on-call support for both our cloud based docker software and legacy production network.
 
-**Engineering Intern**	  
+**Engineering Intern**	
 June 2020 \- September 2020  
 Vulcan Wireless Inc.	
 
 * Designed a test automation interface for NASA software defined radios alongside another team member. This python automation library fully automated a previously entirely manual process saving several hours of work per radio.   
 * Created a frontend web GUI for the automation library using Flask and SQL that allowed users to run tests, record data, and interact with lab equipment remotely.  
   	  	  
-**Machine Learning Intern/Researcher** 	  
+**Machine Learning Intern/Researcher**	
 June 2019 \- June 2020  
 Scripps Institution of Oceanography – Whale Acoustics Lab	
 
 * Partnered with a team of researchers to develop machine learning models--directly applying theories from the classroom to gain novel insights from previously underutilized data.   
 * Spearheaded machine learning/computer vision project as the lead software developer and driving the application of important development processes such as thoroughly cleansing the data and strategically distributing the work.
 
-**Engineering/Technician Assistant**	  
+**Engineering/Technician Assistant**	
 October 2017 \- August 2019  
 Scripps Institution of Oceanography – Instrument Development Group	
 
@@ -72,22 +72,22 @@ Scripps Institution of Oceanography – Instrument Development Group
 
 ## **RELEVANT COURSEWORK**
 
-**DSC 243 \- Advanced Optimization**    
+**DSC 243 \- Advanced Optimization**  
 A deep mathematical dive into the convergent behavior of various optimization algorithms including gradient descent, the Krylov method, conjugate gradient method, and stochastic optimization with large data sets, complexity lower bounds for convex optimization.
 
-**DSC 211 \- Introduction to Optimization**   
+**DSC 211 \- Introduction to Optimization**  
 Learned the fundamentals of optimization at a graduate level, including convexity, gradient descent, acceleration using chebyshev polynomials, stochastic gradient descent, SVRG, Lagrange multipliers, KKT conditions etc.
 
-**DSC 245 \- Introduction to Causal Inference**    
+**DSC 245 \- Introduction to Causal Inference**  
 Covered causal versus predictive inference, potential outcomes and randomized experiments (A/B testing), structural causal models, causal structure learning, estimation of causal effect, causal discovery and inference in presence of distribution shifts, selection bias, nonlinear causal mechanisms,causal representation learning.
 
-**ECE 175A \- Pattern Recognition and Machine Learning**	
+**ECE 175A \- Pattern Recognition and Machine Learning**  
 Provided an undergraduate-level intro to Statistical Learning. Addressed problems such as classification and detection, parameter and model estimation, and clustering using techniques such as PCA, k-means clustering, and Support Vector Machines.
 
-**ECE 176A \- Introduction to Machine Learning and Applications**	 
+**ECE 176A \- Introduction to Machine Learning and Applications**	
 Covered the fundamentals in deep learning, basics in deep neural networks including different network architectures (e.g., ConvNet, RNN), and the optimization algorithms for training these networks. 
 
-**ECE 148 \- Introduction to Autonomous Vehicles**    
+**ECE 148 \- Introduction to Autonomous Vehicles**  
 Utilizing a combination of lectures and practical applications, gained hands-on experience in a state-of-the-art lab with the development of scale autonomous cars that performed on a simulated city track.
 
 ---
