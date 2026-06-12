@@ -15,13 +15,11 @@ redirect_from:
 ## **EDUCATION** 
 
 **University of California, San Diego \- Halıcıoğlu Data Science Institute**	
-
 Expected December 2026, 4.0 GPA 
 
 Master of Science, Data Science
 
 **University of California, San Diego \- Jacobs School of Engineering** 
-
 Class of 2021, 3.2 GPA
 
 Bachelor of Science, Electrical Engineering; Depths in Machine Learning and Digital Signal Processing 	  
