@@ -39,7 +39,7 @@ Viasat Inc.
 
 
 **Software Engineer, Satellite Media Access and Control (SMAC) Group**	
-July 2021 \- October 2022  
+July 2021 \- October 2022   
 Viasat Inc.	
 
 * Developed mission critical software in C++ that drives cutting edge satellite internet, sharing knowledge with a team of experts.   
@@ -47,21 +47,21 @@ Viasat Inc.
 * Exceeded company expectations in a devops role providing on-call support for both our cloud based docker software and legacy production network.
 
 **Engineering Intern**	
-June 2020 \- September 2020  
+June 2020 \- September 2020     
 Vulcan Wireless Inc.	
 
 * Designed a test automation interface for NASA software defined radios alongside another team member. This python automation library fully automated a previously entirely manual process saving several hours of work per radio.   
 * Created a frontend web GUI for the automation library using Flask and SQL that allowed users to run tests, record data, and interact with lab equipment remotely.  
   	  	  
 **Machine Learning Intern/Researcher**	
-June 2019 \- June 2020  
+June 2019 \- June 2020    
 Scripps Institution of Oceanography – Whale Acoustics Lab	
 
 * Partnered with a team of researchers to develop machine learning models--directly applying theories from the classroom to gain novel insights from previously underutilized data.   
 * Spearheaded machine learning/computer vision project as the lead software developer and driving the application of important development processes such as thoroughly cleansing the data and strategically distributing the work.
 
 **Engineering/Technician Assistant**	
-October 2017 \- August 2019  
+October 2017 \- August 2019   
 Scripps Institution of Oceanography – Instrument Development Group	
 
 * Navigated cutting edge software and hardware to build environmentally conscious oceanic autonomous data collection devices.
