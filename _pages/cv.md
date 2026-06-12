@@ -82,7 +82,7 @@ Covered causal versus predictive inference, potential outcomes and randomized ex
 **ECE 175A \- Pattern Recognition and Machine Learning**  
 Provided an undergraduate-level intro to Statistical Learning. Addressed problems such as classification and detection, parameter and model estimation, and clustering using techniques such as PCA, k-means clustering, and Support Vector Machines.
 
-**ECE 176A \- Introduction to Machine Learning and Applications**	
+**ECE 176A \- Introduction to Machine Learning and Applications**	  
 Covered the fundamentals in deep learning, basics in deep neural networks including different network architectures (e.g., ConvNet, RNN), and the optimization algorithms for training these networks. 
 
 **ECE 148 \- Introduction to Autonomous Vehicles**  
