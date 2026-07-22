@@ -126,3 +126,6 @@ Required leadership, dedication, and coordination. Earned over 65 merit badges. 
 
 ---
 
+## **PUBLICATIONS**
+
+[@gmd-19-6451-2026]
